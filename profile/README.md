@@ -1,6 +1,8 @@
 # Team DevCrew by OnnuriPG
 
-![onnuripg_Logos](./img/onpgew.svg)
+<p style="text-align: center">
+<img src=./img/onpgew.svg>
+</p>
 
 ## TEAM DEVCREW
 
