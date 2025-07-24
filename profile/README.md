@@ -1,7 +1,7 @@
 # Team DevCrew by OnnuriPG
 
-<p style="text-align: center">
-<img src=./img/onpgew.svg>
+<p align="center">
+  <img src=./img/onpgew.svg>
 </p>
 
 ## TEAM DEVCREW
