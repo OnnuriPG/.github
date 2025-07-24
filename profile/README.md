@@ -1,4 +1,10 @@
-## Hi there 👋
+# Team DevCrew by OnnuriPG
+
+![onnuripg_Logos](./img/onpgl.png)
+
+## TEAM DEVCREW
+
+![TDC](./img/TDC_WH.svg)
 
 <!--
 
